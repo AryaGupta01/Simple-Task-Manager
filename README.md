@@ -4,6 +4,11 @@ A **full-stack Simple Task Manager application** built using the **MERN stack**.
 
 ---
 
+## Deployed Link
+
+* UI/Frontend: [UI](https://simple-task-manager-ui-nine.vercel.app/)
+* Backend: [Backend](https://task-manager-application-api-seven.vercel.app/)
+
 ## 🚀 Features
 
 * Add new tasks
@@ -144,3 +149,4 @@ npm start
 GitHub Repo: [Simple Task Manager](https://github.com/AryaGupta01/Simple-Task-Manager)
 
 ---
+
